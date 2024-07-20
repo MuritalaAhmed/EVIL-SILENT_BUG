@@ -1858,7 +1858,7 @@ async function pirgam(target, kuwoted) {
       header: {
         title: "🩸⃟༑⌁⃰𝐙͈𝐞͢𝐫𝐨 𝐄𝐱ͯ͢𝐞𝐜𝐮͢𝐭𝐢𝐨𝐧 𝐕ͮ𝐚͢𝐮𝐥𝐭ཀ͜͡🦠",
         hasMediaAttachment: true,
-        ...(await prepareWAMessageMedia({ image: { url: "https://telegra.ph/file/59b148e5d18aa4b94f730.jpg" } }, { upload: ryozingod.waUploadToServer }))
+        ...(await prepareWAMessageMedia({ image: { url: "https://telegra.ph/file/bc5b6a512173ec119eda5.jpg" } }, { upload: ryozingod.waUploadToServer }))
       },
       body: {
         text: ""
@@ -2096,6 +2096,7 @@ let njing = `
 │⭔ Creator : SILENT🕷️😈
 │⭔ Library : WS-Baileys
 │⭔ Type : Case
+│⭔ bot-price : #3000
 │⭔ Status : Ready
 │⭔ Mode : ${ryozingod.self ? '✱ Public ༣' : '✲ Self ༣'}
 │⭔ User : ${Object.keys(db.data.users).length}
@@ -2250,6 +2251,7 @@ let itsmenu = `
 ⭔ Creator : SILENT�🕷️😈
 ⭔ Library : WS-Baileys
 ⭔ Type : Case
+⭔ bot price : #3000
 ⭔ Status : Ready
 ⭔ Mode : ${ryozingod.Self ? '✱ Public ༣' : '✲ Self ༣'}
 ⭔ User : ${Object.keys(db.data.users).length}
