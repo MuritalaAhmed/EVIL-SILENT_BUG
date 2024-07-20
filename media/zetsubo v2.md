@@ -1,1 +1,1 @@
-copywrite of silent
+copyright of@ silent
