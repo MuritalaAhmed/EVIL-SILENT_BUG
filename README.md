@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="Https://wa.me/2348168855791"><img title="Author" src="https://img.shields.io/badge/OWNER-WHATSAPP?style=for-the-badge&logo=whatsapp"></a>
+<a href="Https://wa.me/2348168855791"><img title="Author" src="https://img.shields.io/badge/WHATSAPP?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Silent042?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
@@ -53,7 +53,7 @@
 # DEPLOY BY SESSION ID or creds.json (pair-code)
 
 
-<a href="https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a> click here 
+<a href="https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a> CLICK HERE 
 
 
 # Installation ༒
