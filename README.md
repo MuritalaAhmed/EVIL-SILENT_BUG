@@ -49,12 +49,19 @@
 🦠| .Add the Build packs Below 
 🦠| .👇👇
 ```
-# Instalasi
-* [Pair code](https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh)
 
-    ༒ RENDER DEPLOYMENT ༒
+# DEPLOY BY SESSION ID or creds.json (pair-code)
+
+
+<a href="https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+
+
+# Installation ༒
+
+
+# RENDER DEPLOYMENT ༒
   
-   ★ Register To Render 
+★ Register To Render 
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
