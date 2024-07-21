@@ -50,8 +50,8 @@
 🦠| .👇👇
 ```
 # Instalasi
-* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
+* [Pair code](https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh)
+* [render](  )
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
