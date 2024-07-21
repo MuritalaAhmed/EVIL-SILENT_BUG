@@ -51,7 +51,7 @@
 ```
 # Instalasi
 * [Pair code](https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh)
-* [render](  )
+* [render](https://dashboard.render.com/select-repo?type=web)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
