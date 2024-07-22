@@ -552,16 +552,7 @@ return crypto.randomBytes(size).toString('hex').slice(0, size)
 //=================================================//
 //Ini Waktu | Waktu adalah emas,maka dari itu sentuh lah rumput.dan jangan nolep dikamar terus,usahakan tu kontol jangan dikocok terus.Lutut ama sikut lu kopong nanti
 const moment = require('moment-timezone');
-
-// Set the timezone to Lagos, Nigeria
-const nigeriaTime = moment.tz('Africa/Lagos');
-
-// Display the current time in Nigeria
-console.log('Current time in Nigeria:', nigeriaTime.format());
-
-// If you need to format it in a specific way
-console.log('Formatted time in Nigeria:', nigeriaTime.format('YYYY-MM-DD HH:mm:ss'));
-
+const nigeriaTime = moment.tz('Africa/Lagos').format('HH:mm:ss');
 let ucapanWaktu
 if (time >= "19:00:00" && time < "23:59:00") {
 ucapanWaktu = "🌃 HOW FAR😈"
