@@ -79,14 +79,14 @@ global.decor = {
 // Response
 global.mess = {
   ingroup: 'This feature can only be used in groups.',
-  admin: 'This feature is specifically for group admins.',
-  owner: 'You are not the owner.',
+  admin: 'This feature is specifically for group admins🖕.',
+  owner: 'You are not the owner🫵😡.',
   premium: 'You are not a premium user.',
   seller: 'This feature can only be used by resellers and 🕷️SILENT🕸️.',
-  usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 🤓',
-  wait: '*Waiting for processing 🗿🚬*',
-  success: 'Success Bang 🗿🚬',
-  bugrespon: '✅Processs.....🗿🚬'
+  usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
+  wait: '*processing♻️ please wait....♻️*',
+  success: 'Completed😈💯.....',
+  bugrespon: '♻️terminating victim with virus😈.....🦠🕷️👾'
 };
 
 //===========================//
