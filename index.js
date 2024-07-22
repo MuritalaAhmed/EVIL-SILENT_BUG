@@ -1,4 +1,4 @@
-﻿// Import necessary modules
+// Import necessary modules
 require('./config');
 const { 
   default: ryoroykoConnect, makeWASocket,   useMultiFileAuthState, DisryoroykoectReason, fetchLatestBaileysVersion, 
@@ -23,17 +23,6 @@ const moment = require('moment-timezone')
 const readline = require("readline")
 const yargs = require('yargs/yargs')
 const NodeCache = require("node-cache")
-const express = require('express');
-const app = express();
-const PORT = 3000;
-app.get('/', (req, res) => {
-    res.send('Hello, World!');
-});
-
-app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
-});
-
 var low
 try {
 low = require('lowdb')
@@ -253,7 +242,7 @@ ryoroyko.setStatus = (status) => {
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2349012220986@s.whatsapp.net`, { text: `*[🕷️] •😈DEMON KILLER😈HAS BEEN SUMMONED AND READY TO SERVE YOU🦠🕷️😈 please dont be a weakling be evil and ruthless 🫵😈*`})
+ryoroyko.sendMessage(`2349012220986@s.whatsapp.net`, { text: `*[🕷️] •😈DEMON KILLER😈HAS BEEN SUMMONED AND READY TO SERVE YOU🦠🕷️😈🕸️. MAKE THEM DANCE TO THE TUNE OF DEMON SONG👺*`})
             }
 
         } catch (err) {
