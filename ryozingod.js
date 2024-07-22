@@ -2268,13 +2268,13 @@ let itsmenu = `
  
 ╭❐   \`Owner Cmd\` 
 │
-│⭔ ${prefix}Addprem 62##/TAG 30d
-│⭔ ${prefix}Dellprem 62##/TAG 30d
-│⭔ ${prefix}addowner 62878####
-│⭔ ${prefix}delowner 62878####
-│⭔ ${prefix}zero-bug 62878####
-│⭔ ${prefix}addbadwords kata kasar
-│⭔ ${prefix}delbadwords kata kasar
+│⭔ ${prefix}Addprem 234##/TAG 30d
+│⭔ ${prefix}Dellprem 234##/TAG 30d
+│⭔ ${prefix}addowner 23481####
+│⭔ ${prefix}delowner 23481####
+│⭔ ${prefix}zero-bug 23481####
+│⭔ ${prefix}addbadwords toxic words
+│⭔ ${prefix}delbadwords toxic words
 │⭔ ${prefix}changemenu button/non
 │⭔ ${prefix}autoread on/off
 │⭔ ${prefix}autotyping on/off
@@ -2287,67 +2287,67 @@ let itsmenu = `
 │⭔ ${prefix}addcase 
 │⭔ ${prefix}delcase
 │⭔ ${prefix}join [link group]
-│⭔ ${prefix}block [nomor]
-│⭔ ${prefix}unblock [nomor]
+│⭔ ${prefix}block [number]
+│⭔ ${prefix}unblock [number]
 │⭔ ${prefix}listblock
-│⭔ ${prefix}setppbot [reply gambar]
-│⭔ ${prefix}setbiobot [teks]
+│⭔ ${prefix}setppbot [reply picture]
+│⭔ ${prefix}setbiobot [text]
 │⭔ ${prefix}listpc
 │
 ╰❐
 
 ╭❐   \`Rpg Menu\` 
 │
-│⭔ ${prefix}kerja 
-│⭔ ${prefix}bankcek 
-│⭔ ${prefix}maling 
-│⭔ ${prefix}banknabung 
-│⭔ ${prefix}banktarik 
-│⭔ ${prefix}berkebon 
+│⭔ ${prefix}work 
+│⭔ ${prefix}bankcheck 
+│⭔ ${prefix}thief 
+│⭔ ${prefix}banksavings 
+│⭔ ${prefix}bankattract 
+│⭔ ${prefix}gardening 
 │⭔ ${prefix}crafting 
 │⭔ ${prefix}bet 
 │⭔ ${prefix}bonus 
-│⭔ ${prefix}buah 
-│⭔ ${prefix}nebang 
-│⭔ ${prefix}bekerja 
-│⭔ ${prefix}bansos 
+│⭔ ${prefix}fruit 
+│⭔ ${prefix}cut down 
+│⭔ ${prefix}works 
+│⭔ ${prefix}social assistance 
 │⭔ ${prefix}taxy 
-│⭔ ${prefix}mulung 
-│⭔ ${prefix}berburu 
-│⭔ ${prefix}polisi 
-│⭔ ${prefix}berdagang 
-│⭔ ${prefix}rampok 
-│⭔ ${prefix}bunuh 
+│⭔ ${prefix}large 
+│⭔ ${prefix}hunt 
+│⭔ ${prefix}police 
+│⭔ ${prefix}trade 
+│⭔ ${prefix}robbery 
+│⭔ ${prefix}kill 
 │⭔ ${prefix}collect 
-│⭔ ${prefix}mancing 
+│⭔ ${prefix}fishing 
 │⭔ ${prefix}repair 
 │⭔ ${prefix}feed 
 │⭔ ${prefix}fight 
-│⭔ ${prefix}gajian 
+│⭔ ${prefix}payday 
 │⭔ ${prefix}upgrade 
 │⭔ ${prefix}transfer 
 │⭔ ${prefix}shop 
 │⭔ ${prefix}selectskill 
-│⭔ ${prefix}sampah 
-│⭔ ${prefix}roket 
+│⭔ ${prefix}garbage 
+│⭔ ${prefix}rocket 
 │⭔ ${prefix}ojek 
 │⭔ ${prefix}nguli 
-│⭔ ${prefix}pasar 
+│⭔ ${prefix}market 
 │⭔ ${prefix}rob 
-│⭔ ${prefix}referal 
+│⭔ ${prefix}referral 
 │⭔ ${prefix}petshop 
-│⭔ ${prefix}kolam 
-│⭔ ${prefix}koboy 
-│⭔ ${prefix}leaderboard 
+│⭔ ${prefix}pool 
+│⭔ ${prefix}cowboy 
+│⭔ ${prefix}leaderboard
 │
 ╰❐ 
 
 ╭❐   \`Convert\` 
 │
-│⭔ ${prefix}toimg | reply stiker
+│⭔ ${prefix}toimg | reply sticker
 │⭔ ${prefix}toaudio | reply video
-│⭔ ${prefix}sticker | reply gambar
-│⭔ ${prefix}s | reply gambar 
+│⭔ ${prefix}sticker | reply image/video
+│⭔ ${prefix}s | reply image 
 │⭔ ${prefix}smeme teks bawah|teks atas
 │⭔ ${prefix}tomp4 (sedang eror)
 │⭔ ${prefix}Calc 
@@ -2364,7 +2364,7 @@ let itsmenu = `
 │⭔ ${prefix}prompt-gpt query
 │⭔ ${prefix}dall-e Ilustrasi 
 │⭔ ${prefix}gptgo query
-│⭔ ${prefix}c-ai query|query
+|⭔ ${prefix}c-ai query|query
 │⭔ ${prefix}stablediffusion ilustrasi
 │⭔ ${prefix}gpt4 query
 │
