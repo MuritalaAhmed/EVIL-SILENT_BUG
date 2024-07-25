@@ -706,23 +706,5 @@ fs.watchFile(file, () => {
     console.log(chalk.yellowBright(`Update File Terbaru ${__filename}`));
     delete require.cache[file];
     require(file);
-})
-// Assuming you're using Express
-const express = require('express');
-const app = express();
-
-// Use the port provided by Render or fallback to 3000 for local development
-const PORT = process.env.PORT || 3000;
-
-// Define a simple route for your webhook or other purposes
-app.post('/webhook', (req, res) => {
-  // Your webhook handling logic here
-  console.log('Webhook received:', req.body);
-  res.status(200).send('Webhook received!');
-});
-
-// Start the server and listen on the specified port
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
 });
 
